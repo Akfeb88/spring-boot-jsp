@@ -1,0 +1,12 @@
+com\baeldung\boot\jsp\service\BookService.class
+com\baeldung\boot\jsp\exception\LibraryControllerAdvice.class
+com\baeldung\boot\jsp\repository\BookRepository.class
+com\baeldung\boot\jsp\repository\impl\InMemoryBookRepository.class
+com\baeldung\boot\jsp\exception\DuplicateBookException.class
+com\baeldung\boot\jsp\SpringBootJspConfiguration.class
+com\baeldung\boot\jsp\controller\HomeController.class
+com\baeldung\boot\jsp\repository\model\BookData.class
+com\baeldung\boot\jsp\controller\BookController.class
+com\baeldung\boot\jsp\SpringBootJspApplication.class
+com\baeldung\boot\jsp\service\impl\BookServiceImpl.class
+com\baeldung\boot\jsp\dto\Book.class

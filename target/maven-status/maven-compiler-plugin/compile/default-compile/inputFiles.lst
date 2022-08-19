@@ -1,0 +1,12 @@
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\controller\HomeController.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\repository\model\BookData.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\dto\Book.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\repository\impl\InMemoryBookRepository.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\service\BookService.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\service\impl\BookServiceImpl.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\repository\BookRepository.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\SpringBootJspApplication.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\controller\BookController.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\SpringBootJspConfiguration.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\exception\LibraryControllerAdvice.java
+D:\codebase\spring-boot-jsp\src\main\java\com\baeldung\boot\jsp\exception\DuplicateBookException.java
